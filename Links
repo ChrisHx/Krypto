@@ -5,3 +5,15 @@ Gute Skripte, aber $$$$:
 http://link.springer.com/chapter/10.1007/978-3-540-68504-3_13
 http://dl.acm.org/citation.cfm?id=1242661
 http://dl.acm.org/citation.cfm?id=1358926
+
+
+PW Sicherheit - Def,
+PW Stärke - Def, Entropie, Bsp,
+PW Memorability - Def, Bsp aus Paper, HCI Zeugs
+
+http://digitarald.de/playground/mnemonic-password-generator/
+
+Ziel von uns: saucoolen Mnemonic Generator basteln. Python! (web-based)
+Weg dahin über Definitionen, was ist Sicherheit etc., programmierbare Regeln für Generator (inkl. HCI Regeln usw) + Umsetzung, anschließender Test der generierten PW, ob sicher etc., (Nutzerstudie für Memor., Stärke mit Entropie, Sicherheit.)
+
+http://passwortcheck.pcfeuerwehr.de/
