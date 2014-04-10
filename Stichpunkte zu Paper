@@ -1,0 +1,20 @@
+Password_Memo_Sec_Studie.pdf: Nutzerstudie; 
+										Gruppe 1: PW mit 7 Zeichen, davon ein Symbol/Zahl
+										Gruppe 2: PW durch zufälliges zeigen auf Feld von Buchstaben und Zahlen (Augen geschlossen)
+										Gruppe 3: PW basiert auf mnemonic phrase
+                              -> dann password attacks
+
+
+Do Strong Web Passwords Accomplish Anything.pdf: 
+										Studie/Beispiel, dass nicht immer lange (starke) PW erforderlich sind.
+                              Bsp: Online Banking
+										Bank beschränkt Logins auf 3 Fehlversuche, dann wird Service temporär gesperrt
+ 										-> sehr geringe Wahrscheinlichkeit 6 Zeichen langen Pin bei den ersten 3 Versuchen zu erraten
+										Aber: Mgl. PW zu generieren und jeweils bei allen (bekannten) KntNr. einmal probieren
+										-> höhere Wahrscheinlichkeit, dass PW bei einem der Accounts passt.
+
+
+Measuring password strength by simulating password-cracking algorithm.pdf:
+										Vergleich Passwortstärke (Entropie und Erratbarkeit) bei versch. PW Sets in Nutzerstudie
+										Raten realisiert durch Algorithmus und Entropiewerte basieren auf Shannon-Entropie 
+										...
