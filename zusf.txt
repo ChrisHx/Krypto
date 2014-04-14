@@ -1,0 +1,76 @@
+﻿The momorability und security of passwords
+- Yianxin Yan, Alan Blackwell, Ross Anderson, Alasdair Grand
+- Sep 2000 Uni Cambridge
+- Motivation:
+	- starke Passwörter sind schwer zu merken
+	- einfach zu merkende sind schwache passwörter 
+
+- Allgemein:
+	- Kurzzeitgedächtnis 7+/-2 Chunks
+	- wir sind besser darin uns dinge zu merken, die auf verschiedene Weisen dargestellt werden können [3]
+
+- Regeln für gute Passwörter:
+	- sollte lang sein
+	- sollte ein Großes Alphabet enthalten
+	- leicht zu merken
+
+- Memorability test (Ziran und Haga [8]):
+	- 2 Methoden der passwortgenerierung
+		- Passwort generatoren generierten PW
+		- 106 Studenten sollten passwörter aufschreiben
+	- dann wurden den studenten zufällig die passwörter gegeben
+	- 3 monate später sollten sie sie wieder aufschreiben
+	- DANN: 35% der selbstgewählten und 23% der Randompasswörter wurden erinnert
+
+- Experimental Studie der Uni Cambridge:
+	- 400 Teststudenten
+	- wurden in 3 Kontrollgruppen eingeteilt
+		- 1. Gruppe: Selbstgewählt, mindestens 7 Zeichen mit einer Oder keiner Zahl
+		- 2. Gruppe: Auf einem Blatt wurden Buchstaben von a-z und zahlen von 0-9 geschrieben
+		die gruppe sollte dann 8 Zeichen zufällig auswählen (Augen zu mit Stift) diese dann aufschreiben und merken
+		- 3. Gruppe: Mnemonic passprase
+
+- Memorability aspect:
+	- Alle Testpersonen bekamen eine mail, in der sie Ihr passwort wiedergeben sollten und sagen sollten, wie lange sie ihren motiezzettel behalten haben
+	1. Grp: 0,7
+	2. Grp: 4,8
+	3. Grp: 0,6
+	- alle mussten sagen, wie schwer sie es fanden sich das passwort zu merken
+	1. Grp: 1,52
+	2. Grp: 3,15
+	3. Grp: 1,67
+		
+
+- Security Aspect 4 verschiedene Atacken:
+	- Dicionary Attack						
+	- Permutation Attack						Most successfull
+	- User information Attack					not successfull in any case
+	- Bruet force (against pw that were only 6 characters long)	alle were cracked
+
+- 5 Erkenntnisse aus der Studie
+	- Nutzer haben schwierigkeiten sich Zufallspasswörter zu merken
+	- mnemonic Passwörter sind härter zu knacken, als Selbstgewählte
+	- Random Passwörter sind nicht besser als mnemonics
+	- mnemonic Passwörter sind nicht schwieriger zu merken als selbst gewählte passwörter
+	- Zufällig gewählte oder mnemonic passwörter erhöhen die sicherheit bei bleicher länge nicht ausreichend.
+
+
+
+
+- Security and usability
+- Jeff Yan, Alan Blackwell, Ross Anderson, Alasdair Grand
+- 2005 O'REILLY Verlag
+- Abschnitt: The Memorability and Security of Passwords (P.129)
+
+- allgemen bekannte Fakten des menschlichen gehirns:
+	- das menschliche erinnerungsvermögen ist limmitiert (kurzzeitgedächtnis 7 +/- 2)
+	- sollen Menschen sich an eine Folge von Dingen erinnern funktioniert das mit Verwandten Symbolen oder Wörtern besser 
+	- unsere erinnerung funktionier viel besser, wenn wir informationen auf verschiedene weise decodieren können
+
+- Studie von 1993 von Zviran und Haga
+	- 106 Studenten haben sich ein Passwort selbst ausgedacht und bekamen noch ein zufällig erstelltes
+	- 3 Monate später:	Self-selected	Random
+	Sucessfull recall	35%		23%
+	Wrote it down		14%		66%
+
+Die Studie ist die Selbe!
